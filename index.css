@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .hero img {
+    margin-bottom: 20px;
+    height: 400px;
+  }
+  
+  .features img {
+    border-radius: 10px;
+  }
+  
+  footer {
+    margin-top: 50px;
+  }
+  nav {
+font-size: 20px;
+padding: 20px;
+  }
+  
+
